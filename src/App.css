@@ -22,10 +22,16 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  vertical-align: middle;
 }
 
 .App-link {
   color: #61dafb;
+}
+
+.coffee-button {
+  display: 'flex';
+  vertical-align: middle;
 }
 
 @keyframes App-logo-spin {
