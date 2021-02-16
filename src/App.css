@@ -29,9 +29,9 @@
   color: #61dafb;
 }
 
-.coffee-button {
-  display: 'flex';
-  vertical-align: middle;
+.coffee-image {
+  width: 100%;
+  height: auto;
 }
 
 @keyframes App-logo-spin {
