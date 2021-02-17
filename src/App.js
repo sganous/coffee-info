@@ -1,11 +1,7 @@
 import React, {Component} from 'react';
-import './App.css';
-import {
-  AwesomeButton,
-  AwesomeButtonProgress,
-  AwesomeButtonSocial,
-} from 'react-awesome-button';
+import { AwesomeButtonProgress } from 'react-awesome-button';
 import AwesomeButtonStyles from "react-awesome-button/src/styles/styles.scss";
+import './App.css';
 import ReactImageAppear from 'react-image-appear';
 
 class App extends Component {

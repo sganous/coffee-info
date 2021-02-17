@@ -34,6 +34,25 @@
   height: auto;
 }
 
+.aws-btn {
+--button-default-height: 100px;
+--button-default-font-size: 23px;
+--button-default-border-radius: 25px;
+--button-horizontal-padding: 50px;
+--button-raise-level: 8px;
+--button-hover-pressure: 2;
+--transform-speed: 0.1s;
+--button-primary-color: #552302;
+--button-primary-color-dark: #a25c0b;
+--button-primary-color-light: #ffffff;
+--button-primary-color-hover: #773203;
+--button-primary-border: 2px solid #a25c0b;
+--button-primary-color-active: #a25c0b;
+--button-large-height: 100px;
+--button-large-width: 300px;
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
